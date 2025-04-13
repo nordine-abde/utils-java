@@ -5,4 +5,4 @@ If anyone finds them useful and wants to use them, feel free to do so — just m
 
 Some of the code is designed to very specific purposes, so you may need to modify it to fit your needs.
 
-Some of the code may be outdated or not work as expected.
+Some of the code may be outdated or out of the original context, so it may not work as expected.
